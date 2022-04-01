@@ -1,4 +1,14 @@
-## Welcome to GitHub Pages
+# Brock Akerman
+
+Graduate Student, Statistics (Current)  
+**North Carolina State University**  
+
+Bachelors of Science, Mathematics  
+**University of North Georgia, 2016**  
+
+Associates of Science, Computer Science  
+**University of North Georgia, 2016**  
+
 
 You can use the [editor on GitHub](https://github.com/Bakerman1982/Website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
